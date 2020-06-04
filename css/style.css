@@ -441,6 +441,7 @@ body {
 
 .surface-logo {
   width: 65px;
+  height: 60px;
   background-color: #684ac0;
   padding: 15px;
   border-radius: 20%;
@@ -752,6 +753,7 @@ body {
   
   .surface-logo {
     width: 110px;
+    height: 100px;
     background-color: #684ac0;
     padding: 15px;
     border-radius: 20%;
@@ -1043,6 +1045,7 @@ body {
   
   .surface-logo {
     width: 65px;
+    height: 60px;
     background-color: #684ac0;
     padding: 2.5vw;
     border-radius: 20%;
